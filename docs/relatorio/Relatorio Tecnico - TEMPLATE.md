@@ -13,9 +13,12 @@
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+Nathan de Araújo Cunha Lisboa
+Marcelo Victor Alencar Eulálio
+André Luis de Oliveira Ferreira
+Eduardo Henrique Leite Cardoso
+Rafael Cangussu Dallariva
+Pedro Malta Boscatti
 
 # Estrutura do Documento
 
