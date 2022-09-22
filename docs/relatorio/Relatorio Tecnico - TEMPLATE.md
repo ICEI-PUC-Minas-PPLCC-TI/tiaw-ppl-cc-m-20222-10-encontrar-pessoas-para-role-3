@@ -69,32 +69,15 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ O objetivo geral do grupo é desenvolver uma plataforma para facilitar as pessoas a encontrarem um rolê, do qual elas vão se sentir a vontade e aproveitar cada minuto. E também a saber informações crucias do rolê ( pessoas confirmadas, meio de transportes, etc.) poder avaliar o rolê, para pessoas que estão pensando em ir, saberem se vale a pena ou não.
+ 
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Esse aplicativo vem para ajudar diversos tipos de pessoas a acharem um local ideal para se distrair. Pode-se observar que com o final da pandemia, muitas pessoas ficaram antissociais, e esse aplicativo vai ajudar a conseguirem a socializar melhor. E claro que não atinge apenas esse público, com as universidades voltando as aulas presenciais, todos querem sempre achar o melhor rolê. Sendo assim, é o momento perfeito para socializar e ter sua hora de lazer, com a ajuda do aplicativo.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+
 
 ## Público-Alvo
 
