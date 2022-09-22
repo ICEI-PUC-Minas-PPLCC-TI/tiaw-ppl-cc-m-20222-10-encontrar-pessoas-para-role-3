@@ -83,7 +83,7 @@ Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Luiz Eduardo: Luiz tem 19 anos é estudante de marketing é uma pessoa muito extrovertida animada e amigável que tem como sonho ser um grande empresário e abrir um cassino. Ele usa o computador e o celular diariamente tanto para atividades de estudo como lazer. Quer saber quais são os rolês e como esta a situação deles diariamente.
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
