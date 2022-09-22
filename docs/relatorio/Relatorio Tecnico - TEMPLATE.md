@@ -56,32 +56,23 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Dia após dia a rotina das pessoas tem ficado cada vez mais corridas e com isso se torna muito importante que tenham momentos de lazer para relaxar e tornar a vida menos estressante, e um dos exemplos na atualidade para que ambos estes objetivos sejam atentidos com sucesso sao as saidas seja nos fins de semana ou durante, mais popularmente conhecidos como roles. Diante disso encontra-se um problema que todas as faixas etárias 
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+> Dia após dia a rotina das pessoas tem ficado cada vez mais corridas e com isso se torna muito importante que tenham momentos de lazer para relaxar e tornar a vida menos estressante, e um dos exemplos na atualidade para que ambos estes objetivos sejam atentidos com sucesso sao as saidas, seja nos fins de semana ou durante, mais popularmente conhecidos como roles. Diante disso encontra-se alguns obstáculos que todas as faixas etárias encontram que sao: O que eu vou fazer? O que tem pra fazer? Com quem irei? Vou gastar algo? Como irei? Onde meus amigos estao? Estou sozinho mas mesmo assim quero socializar como eu faço? Esses e muitas outros problemas que iremos tentar ajudar e resolver com a nossa aplicação tornando bem mais fácil e dinamico uma saida de casa, ou até mesmo um role na sua própria casa.
 
 ## Objetivos
 
- O objetivo geral do grupo é desenvolver uma plataforma para facilitar as pessoas a encontrarem um rolê, do qual elas vão se sentir a vontade e aproveitar cada minuto. E também a saber informações crucias do rolê ( pessoas confirmadas, meio de transportes, etc.) poder avaliar o rolê, para pessoas que estão pensando em ir, saberem se vale a pena ou não.
+ O objetivo geral do grupo é desenvolver uma plataforma para facilitar as pessoas a encontrarem um rolê, do qual elas vão se sentir a vontade e aproveitar cada minuto. E também a saber informações crucias do rolê ( pessoas confirmadas, meio de transportes, preço, etc.) ter algumas, interações em tempo real e poder avaliar o rolê para pessoas que estão pensando em ir, saberem se vale a pena ou não.
  
 
 
 ## Justificativa
 
- Esse aplicativo vem para ajudar diversos tipos de pessoas a acharem um local ideal para se distrair. Pode-se observar que com o final da pandemia, muitas pessoas ficaram antissociais, e esse aplicativo vai ajudar a conseguirem a socializar melhor. E claro que não atinge apenas esse público, com as universidades voltando as aulas presenciais, todos querem sempre achar o melhor rolê. Sendo assim, é o momento perfeito para socializar e ter sua hora de lazer, com a ajuda do aplicativo.
+ Esse aplicativo vem para ajudar diversos tipos de pessoas a acharem um local ideal para se distrair. Pode-se observar que com o final da pandemia, muitas pessoas ficaram antissociais, e esse aplicativo vai ajudar a conseguirem se socializar melhor. E claro que não atinge apenas esse público, com as universidades voltando as aulas presenciais, todos querem sempre achar o melhor rolê. Sendo assim, é o momento perfeito para socializar e ter sua hora de lazer, com o auxilio do aplicativo.
 
 
 
 ## Público-Alvo
 
- Com esse projeto, esperamos alcançar praticamente todas as pessoas interessadas em rolês.
+ Com esse projeto, esperamos alcançar praticamente todas as pessoas interessadas em sair de casa e passar um tempo de qualidade com quem gostamos.
  
  No entanto, o nosso foco inicial são para os jovens.
 
