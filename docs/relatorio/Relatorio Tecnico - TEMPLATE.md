@@ -56,12 +56,7 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
+> Dia após dia a rotina das pessoas tem ficado cada vez mais corridas e com isso se torna muito importante que tenham momentos de lazer para relaxar e tornar a vida menos estressante, e um dos exemplos na atualidade para que ambos estes objetivos sejam atentidos com sucesso sao as saidas seja nos fins de semana ou durante, mais popularmente conhecidos como roles. Diante disso encontra-se um problema que todas as faixas etárias 
 >
 > Nesse momento, o grupo pode optar por fazer uso
 > de ferramentas como Design Thinking, que permite um olhar de ponta a
