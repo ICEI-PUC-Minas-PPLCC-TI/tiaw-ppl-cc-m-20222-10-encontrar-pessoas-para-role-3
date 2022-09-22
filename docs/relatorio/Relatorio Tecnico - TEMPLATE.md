@@ -12,13 +12,12 @@
 ......  COLOQUE AQUI O SEU TEXTO ......
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
->
-Nathan de Araújo Cunha Lisboa
-Marcelo Victor Alencar Eulálio
-André Luis de Oliveira Ferreira
-Eduardo Henrique Leite Cardoso
-Rafael Cangussu Dallariva
-Pedro Malta Boscatti
+> Nathan de Araújo Cunha Lisboa
+> Marcelo Victor Alencar Eulálio
+> André Luis de Oliveira Ferreira
+> Eduardo Henrique Leite Cardoso
+> Rafael Cangussu Dallariva
+> Pedro Malta Boscatti
 
 # Estrutura do Documento
 
