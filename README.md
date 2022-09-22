@@ -13,8 +13,9 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Cleiton Silva Tavares
+* Luciana Mara Freitas Diniz
+* Rommel Vieira Carneiro
 
 ## Instruções de utilização
 
