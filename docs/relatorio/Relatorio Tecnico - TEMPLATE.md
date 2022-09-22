@@ -118,8 +118,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do asdasdasdasdasdasd  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do aplicativo | Achar um rolê animado          | Me divertir              |
+|Promotor de um rolê       | Divulgar meu evento               | Aumentar o alcançe  |
+|Usuário do aplicativo| Achar um rolê tranquilo | Que eu encontre meus amigos e me sinta confortável|
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
@@ -140,16 +141,27 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| Cadastro de usuário | ALTA | 
+|RF-002| Interface do role  com suas devidas informações | ALTA |
+|RF-003| Localização/Mapa em tempo real | BAIXA |
+|RF-003| Lista de Amigos  | ALTA |
+|RF-004| Feed com os roles em destaque  | ALTA |
+|RF-005| Meios de locomoção  | MÉDIA |
+|RF-006| Busca de rolès( barra de pesquisa) | ALTA |
+|RF-007| Avaliação do rolê | ALTA |
+|RF-008| Avaliação do rolê | ALTA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-001| É necessário um sistema de responsividade para diversos tamanhos de tela | MEDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003| A plataforma deverá ter uma interface intuitiva | ALTA | 
+|RNF-004| O sistema necessita de executabilidade em qualquer plataforma | ALTA |
+|RNF-005| Necessidade de atender às normas legais | MÉDIA | 
+
+
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -181,6 +193,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+|03|O projeto tem que ser desenvolvido apenas nas seguintes linguagens: HTML, CSS e JavaScript       |
+|04| O projeto deve ser versionado utilizando o controle de versão Git   |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
