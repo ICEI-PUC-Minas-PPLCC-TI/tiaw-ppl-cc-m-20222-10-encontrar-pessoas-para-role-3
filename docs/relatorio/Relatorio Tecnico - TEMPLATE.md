@@ -75,29 +75,17 @@
 
 ## Justificativa
 
-Esse aplicativo vem para ajudar diversos tipos de pessoas a acharem um local ideal para se distrair. Pode-se observar que com o final da pandemia, muitas pessoas ficaram antissociais, e esse aplicativo vai ajudar a conseguirem a socializar melhor. E claro que não atinge apenas esse público, com as universidades voltando as aulas presenciais, todos querem sempre achar o melhor rolê. Sendo assim, é o momento perfeito para socializar e ter sua hora de lazer, com a ajuda do aplicativo.
+ Esse aplicativo vem para ajudar diversos tipos de pessoas a acharem um local ideal para se distrair. Pode-se observar que com o final da pandemia, muitas pessoas ficaram antissociais, e esse aplicativo vai ajudar a conseguirem a socializar melhor. E claro que não atinge apenas esse público, com as universidades voltando as aulas presenciais, todos querem sempre achar o melhor rolê. Sendo assim, é o momento perfeito para socializar e ter sua hora de lazer, com a ajuda do aplicativo.
 
 
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+ Com esse projeto, esperamos alcançar praticamente todas as pessoas interessadas em rolês.
  
+ No entanto, o nosso foco inicial são para os jovens.
+
+
 # Especificações do Projeto
 
 ......  COLOQUE AQUI O SEU TEXTO ......
