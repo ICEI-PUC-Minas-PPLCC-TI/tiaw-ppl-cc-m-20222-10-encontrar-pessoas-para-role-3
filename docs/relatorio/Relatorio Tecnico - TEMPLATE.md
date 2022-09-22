@@ -83,7 +83,10 @@ Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto
 
 ## Personas e Mapas de Empatia
 
-Luiz Eduardo: Luiz tem 19 anos é estudante de marketing é uma pessoa muito extrovertida animada e amigável que tem como sonho ser um grande empresário e abrir um cassino. Ele usa o computador e o celular diariamente tanto para atividades de estudo como lazer. Quer saber quais são os rolês e como esta a situação deles diariamente.
+* Luiz Eduardo: Luiz tem 19 anos é estudante de marketing, é uma pessoa muito extrovertida animada e amigável que tem como sonho ser um grande empresário e abrir um cassino. Ele usa o computador e o celular diariamente tanto para atividades de estudo como lazer. Quer saber quais são os rolês e como esta a situação deles diariamente. Gosta de se sentir incluido e que esteja com pessoas animadas como suas companhias.
+* Lúcio Marcos: Lúcio tem 26 anos é advogado, é uma pessoa bem humorada, simpática, tímida, calma e paciente adora ler e ver filmes tem como sonho casar, ter filhos, morar perto do trabalho em um local boêmio. Usa o notebook para trabalhar e ver filmes, o celular para conversar com os amigos e a televisão para ver jogos. Quer saber onde os amigos estão para saber com antecedência se o lugar é tranquilo e tem o estilo musical que ele gosta. Deve ter os seus momentos de privacidade respeitados mas sem deixar de incluí-lo em todos os rolês que sao mais calmos e combinam com a sua personalidade.
+* Maria Clara: Maria Clara tem 21 anos é influenciadora e estudante adora gravar videos de make, é uma pessoa sociável, engraçada, inteligente e responsável. Sonha em formar na faculdade conciliando com a vida de influenciadora. Usa o computador e o celular tanto para trabalhar, se entreter e estudar. Tem interesse no aplicativo pois quer promover eventos de grande escala e divulga-los tendo todo o apoio necessário para conseguir atrair um maior público.
+
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
@@ -115,7 +118,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Usuário do asdasdasdasdasdasd  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
