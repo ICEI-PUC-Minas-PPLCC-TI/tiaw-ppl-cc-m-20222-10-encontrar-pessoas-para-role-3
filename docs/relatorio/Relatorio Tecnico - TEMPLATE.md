@@ -56,7 +56,7 @@
 
 
 
-> Dia após dia a rotina das pessoas tem ficado cada vez mais corridas e com isso se torna muito importante que tenham momentos de lazer para relaxar e tornar a vida menos estressante, e um dos exemplos na atualidade para que ambos estes objetivos sejam atentidos com sucesso sao as saidas, seja nos fins de semana ou durante, mais popularmente conhecidos como roles. Diante disso encontra-se alguns obstáculos que todas as faixas etárias encontram que sao: O que eu vou fazer? O que tem pra fazer? Com quem irei? Vou gastar algo? Como irei? Onde meus amigos estao? Estou sozinho mas mesmo assim quero socializar como eu faço? Esses e muitas outros problemas que iremos tentar ajudar e resolver com a nossa aplicação tornando bem mais fácil e dinamico uma saida de casa, ou até mesmo um role na sua própria casa.
+Dia após dia a rotina das pessoas tem ficado cada vez mais corridas e com isso se torna muito importante que tenham momentos de lazer para relaxar e tornar a vida menos estressante, e um dos exemplos na atualidade para que ambos estes objetivos sejam atentidos com sucesso sao as saidas, seja nos fins de semana ou durante, mais popularmente conhecidos como roles. Diante disso encontra-se alguns obstáculos que todas as faixas etárias encontram que sao: O que eu vou fazer? O que tem pra fazer? Com quem irei? Vou gastar algo? Como irei? Onde meus amigos estao? Estou sozinho mas mesmo assim quero socializar como eu faço? Esses e muitas outros problemas que iremos tentar ajudar e resolver com a nossa aplicação tornando bem mais fácil e dinamico uma saida de casa, ou até mesmo um role na sua própria casa.
 
 ## Objetivos
 
