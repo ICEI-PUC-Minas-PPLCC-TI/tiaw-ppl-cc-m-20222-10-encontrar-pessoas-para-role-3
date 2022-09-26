@@ -1,7 +1,9 @@
 # :clipboard: Informações do Projeto
 `Actual Rolê`
 
-`Curso de Ciência da Computação`
+`Trabalho Interdisciplinar: Aplicações Web`
+
+`Ciência da Computação`
 
 ## :construction_worker: Participantes
 
