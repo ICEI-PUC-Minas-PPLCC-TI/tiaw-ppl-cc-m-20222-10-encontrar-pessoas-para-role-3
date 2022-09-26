@@ -351,11 +351,12 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A lista a seguir traz as referências utilizadas nesse trabalho. são elas:
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+Problemas para se enturmar podem atrapalhar vida na faculdade... - Veja mais em
+
+https://educacao.uol.com.br/noticias/2013/03/11/problemas-para-se-enturmar-podem-atrapalhar-vida-na-faculdade.htm
+
+Afinal, por que é importante fazer bons amigos na faculdade... - Veja mais em 
+
+https://blog.uceff.edu.br/afinal-por-que-e-importante-fazer-bons-amigos-na-faculdade/
