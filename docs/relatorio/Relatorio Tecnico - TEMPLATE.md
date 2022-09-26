@@ -9,7 +9,7 @@
 
 * André Luis de Oliveira Ferreira
 * Eduardo Henrique Leite Cardoso
-* Marcelo Victor Alencar Eulálio
+* Marcelo Victor Alencar Eulálio 
 * Nathan de Araújo Cunha Lisboa
 * Pedro Malta Boscatti
 * Rafael Cangussu Dallariva
