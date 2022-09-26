@@ -1,20 +1,17 @@
-# Informações do Projeto
-`TÍTULO DO PROJETO`  
+# :clipboard: Informações do Projeto
+`Actual Rolê`
 
-......  Actual Role ......
+`Curso de Ciência da Computação`
 
-`CURSO` 
+## :construction_worker: Participantes
 
-......  Curso de Ciência da Computação ......
-
-## Participantes
-
-* Nathan de Araújo Cunha Lisboa
-* Marcelo Victor Alencar Eulálio
 * André Luis de Oliveira Ferreira
 * Eduardo Henrique Leite Cardoso
-* Rafael Cangussu Dallariva
+* Marcelo Victor Alencar Eulálio
+* Nathan de Araújo Cunha Lisboa
 * Pedro Malta Boscatti
+* Rafael Cangussu Dallariva
+
 # Estrutura do Documento
 
 - [Informações do Projeto](#informações-do-projeto)
@@ -50,101 +47,101 @@
 - [Referências](#referências)
 
 
-# Introdução
+# :wrench: Introdução
+
 
 ## Problema
 
+Dia após dia a rotina das pessoas tem ficado cada vez mais corridas e, com isso, torna-se muito importante que tenham momentos de lazer para relaxar e tornar a vida menos estressante. Na atualidade, um dos exemplos para que ambos esses objetivos sejam atentidos com sucesso é as saídas, seja durante ou nos fins de semana, popularmente conhecidos como **rolês**.
 
+Diante disso, encontram-se alguns obstáculos que todas as faixas etárias encontram. São eles: O que eu vou fazer? O que tem pra fazer? Com quem irei? Vou gastar algo? Como irei? Onde meus amigos estão? Estou sozinho, mas mesmo assim quero socializar. Como eu faço? São esses e muitas outros problemas que iremos tentar ajudar a resolver com a nossa aplicação, tornando bem mais fácil e dinâmico uma saída de casa, ou até mesmo um rolê na sua própria casa.
 
-Dia após dia a rotina das pessoas tem ficado cada vez mais corridas e com isso se torna muito importante que tenham momentos de lazer para relaxar e tornar a vida menos estressante, e um dos exemplos na atualidade para que ambos estes objetivos sejam atentidos com sucesso sao as saidas, seja nos fins de semana ou durante, mais popularmente conhecidos como roles. Diante disso encontra-se alguns obstáculos que todas as faixas etárias encontram que sao: O que eu vou fazer? O que tem pra fazer? Com quem irei? Vou gastar algo? Como irei? Onde meus amigos estao? Estou sozinho mas mesmo assim quero socializar como eu faço? Esses e muitas outros problemas que iremos tentar ajudar e resolver com a nossa aplicação tornando bem mais fácil e dinamico uma saida de casa, ou até mesmo um role na sua própria casa.
 
 ## Objetivos
 
- O objetivo geral do grupo é desenvolver uma plataforma para facilitar as pessoas a encontrarem um rolê, do qual elas vão se sentir a vontade e aproveitar cada minuto. E também a saber informações crucias do rolê ( pessoas confirmadas, meio de transportes, preço, etc.) ter algumas, interações em tempo real e poder avaliar o rolê para pessoas que estão pensando em ir, saberem se vale a pena ou não.
- 
+O objetivo geral do grupo é desenvolver uma plataforma para facilitar as pessoas a encontrarem um rolê onde elas vão se sentir a vontade e aproveitar cada minuto. Também, a saber informações crucias sobre o rolê (pessoas confirmadas, meio de transportes, preço, etc.), ter algumas interações em tempo real e poder avaliar o rolê para que pessoas que estão pensando em ir saibam se vale a pena ou não comparecer.
 
 
 ## Justificativa
 
- Esse aplicativo vem para ajudar diversos tipos de pessoas a acharem um local ideal para se distrair. Pode-se observar que com o final da pandemia, muitas pessoas ficaram antissociais, e esse aplicativo vai ajudar a conseguirem se socializar melhor. E claro que não atinge apenas esse público, com as universidades voltando as aulas presenciais, todos querem sempre achar o melhor rolê. Sendo assim, é o momento perfeito para socializar e ter sua hora de lazer, com o auxilio do aplicativo.
+Essa plataforma vem para ajudar diversos tipos de pessoas a acharem um local ideal para se distrair. Com o final da pandemia, muitas pessoas ficaram isoladas e antissociais, assim, essa plataforma ajudaria essas pessoas a conseguirem socializar melhor.
 
+É importante frisar que a ferramenta não quer atingir apenas esse público. Com as universidades voltando às aulas presenciais, todos querem sempre achar o melhor rolê. Sendo assim, é o momento ideal para socializar e ter sua hora de lazer e distração, tendo como facilitador o auxilio da plataforma.
 
 
 ## Público-Alvo
 
- Com esse projeto, esperamos alcançar praticamente todas as pessoas interessadas em sair de casa e passar um tempo de qualidade com quem gostamos.
- 
- No entanto, o nosso foco inicial são para os jovens.
+Com esse projeto, esperamos alcançar praticamente todas as pessoas interessadas em sair de casa e passar um tempo de qualidade com quem gostamos. Além de atingir uma variedade de donos de estabelecimento e divulgadores de evento.
+
+Inicialmente, no entanto, o nosso foco são os jovens que querem arrumar um rolê ou divulgar um.
 
 
-# Especificações do Projeto
 
-Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto, através da elaboração das Personas, Histórias de Usuários, Requisitos e Restrições do projeto.
+# :bookmark_tabs: Especificações do Projeto
+
+Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto, através da elaboração das _Personas_, _Histórias de Usuários_, _Requisitos e Restrições do projeto_.
+
 
 ## Personas e Mapas de Empatia
 
-* Luiz Eduardo: Luiz tem 19 anos é estudante de marketing, é uma pessoa muito extrovertida animada e amigável que tem como sonho ser um grande empresário e abrir um cassino. Ele usa o computador e o celular diariamente tanto para atividades de estudo como lazer. Quer saber quais são os rolês e como esta a situação deles diariamente. Gosta de se sentir incluido e que esteja com pessoas animadas como suas companhias.
-* Lúcio Marcos: Lúcio tem 26 anos é advogado, é uma pessoa bem humorada, simpática, tímida, calma e paciente adora ler e ver filmes tem como sonho casar, ter filhos, morar perto do trabalho em um local boêmio. Usa o notebook para trabalhar e ver filmes, o celular para conversar com os amigos e a televisão para ver jogos. Quer saber onde os amigos estão para saber com antecedência se o lugar é tranquilo e tem o estilo musical que ele gosta. Deve ter os seus momentos de privacidade respeitados mas sem deixar de incluí-lo em todos os rolês que sao mais calmos e combinam com a sua personalidade.
-* Maria Clara: Maria Clara tem 21 anos é influenciadora e estudante adora gravar videos de make, é uma pessoa sociável, engraçada, inteligente e responsável. Sonha em formar na faculdade conciliando com a vida de influenciadora. Usa o computador e o celular tanto para trabalhar, se entreter e estudar. Tem interesse no aplicativo pois quer promover eventos de grande escala e divulga-los tendo todo o apoio necessário para conseguir atrair um maior público.
+* **Luiz Eduardo:** Luiz tem 19 anos é estudante de marketing, é uma pessoa muito extrovertida animada e amigável que tem como sonho ser um grande empresário e abrir um cassino. Ele usa o computador e o celular diariamente tanto para atividades de estudo como lazer. Quer saber quais são os rolês e como esta a situação deles diariamente. Gosta de se sentir incluido e que esteja com pessoas animadas como suas companhias.
 
+* **Lúcio Marcos:** Lúcio tem 26 anos é advogado, é uma pessoa bem humorada, simpática, tímida, calma e paciente adora ler e ver filmes tem como sonho casar, ter filhos, morar perto do trabalho em um local boêmio. Usa o notebook para trabalhar e ver filmes, o celular para conversar com os amigos e a televisão para ver jogos. Quer saber onde os amigos estão para saber com antecedência se o lugar é tranquilo e tem o estilo musical que ele gosta. Deve ter os seus momentos de privacidade respeitados mas sem deixar de incluí-lo em todos os rolês que sao mais calmos e combinam com a sua personalidade.
 
+* **Maria Clara:** Maria Clara tem 21 anos é influenciadora e estudante adora gravar videos de make, é uma pessoa sociável, engraçada, inteligente e responsável. Sonha em formar na faculdade conciliando com a vida de influenciadora. Usa o computador e o celular tanto para trabalhar, se entreter e estudar. Tem interesse no aplicativo pois quer promover eventos de grande escala e divulga-los tendo todo o apoio necessário para conseguir atrair um maior público.
 
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do aplicativo | Achar um rolê animado          | Me divertir              |
-|Promotor de um rolê       | Divulgar meu evento               | Aumentar o alcançe  |
-|Usuário do aplicativo| Achar um rolê tranquilo | Que eu encontre meus amigos e me sinta confortável|
-
+|Usuário do aplicativo| Achar um rolê tranquilo | Encontrar meus amigos e me sentir confortável|
+|Promotor de um rolê       | Divulgar meu evento               | Aumentar o alcançe e o público  |
 
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+As tabelas que se seguem apresentam os requisitos _funcionais_ e _não funcionais_ que detalham o escopo do projeto.
+
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Cadastro de usuário | ALTA | 
-|RF-002| Interface do role  com suas devidas informações | ALTA |
+|RF-002| Interface do rolê com as devidas informações | ALTA |
 |RF-003| Localização/Mapa em tempo real | BAIXA |
-|RF-003| Lista de Amigos  | ALTA |
-|RF-004| Feed com os roles em destaque  | ALTA |
-|RF-005| Meios de locomoção  | MÉDIA |
-|RF-006| Busca de rolès( barra de pesquisa) | ALTA |
-|RF-007| Avaliação do rolê | ALTA |
+|RF-004| Lista de Amigos | ALTA |
+|RF-005| Feed com os rolês em destaque  | ALTA |
+|RF-006| Meios de locomoção  | MÉDIA |
+|RF-007| Busca de rolês (Barra de Pesquisa) | ALTA |
 |RF-008| Avaliação do rolê | ALTA |
 
-### Requisitos não Funcionais
+
+### Requisitos Não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| É necessário um sistema de responsividade para diversos tamanhos de tela | MEDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Um sistema de responsividade para diversos tamanhos de tela | MÉDIA | 
+|RNF-002| Deve processar requisições do usuário em pouco tempo |  BAIXA | 
 |RNF-003| A plataforma deverá ter uma interface intuitiva | ALTA | 
-|RNF-004| O sistema necessita de executabilidade em qualquer plataforma | ALTA |
+|RNF-004| O sistema necessita de boa executabilidade em qualquer plataforma | ALTA |
 |RNF-005| Necessidade de atender às normas legais | MÉDIA | 
-
-
-
 
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-|03|O projeto tem que ser desenvolvido apenas nas seguintes linguagens: HTML, CSS e JavaScript       |
-|04| O projeto deve ser versionado utilizando o controle de versão Git   |
-
+|03| O projeto tem que ser desenvolvido apenas nas seguintes linguagens: HTML, CSS e JavaScript |
+|04| O projeto deve ser versionado utilizando o controle de versão Git |
 
 
 
