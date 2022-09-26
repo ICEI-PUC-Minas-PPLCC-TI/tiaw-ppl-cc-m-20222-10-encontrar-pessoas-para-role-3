@@ -213,13 +213,16 @@ O protótipo interativo desenvolvido no Figma pode ser visto clicando [aqui](htt
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Após algumas reuniões e conversas, o grupo decidiu dividir os membros e as funções da seguinte forma:
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+| Integrante  | Função              |
+|-----------|-------------------------|
+|André Luis | Função | 
+|Eduardo Henrique | Função |
+|Marcelo Victor | Função |
+|Nathan Lisboa | Função |
+|Pedro Malta | Função |
+|Rafael Cangussu | Função |
 
 
 ## Ferramentas
@@ -253,38 +256,20 @@ Para as nossas reuniões, estamos utilizando o Discord e fazendo encontros seman
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O [Git](https://git-scm.com/) foi a ferramenta de controle de versão escolhido. Por ele nós vamos subir os arquivos para o repositório hospedado no [Github](https://github.com).
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
+Inicialmente, estamos pensando em trabalhar com duas branchs, uma principal e uma secundária, de alterações, que seriam nomeadas da seguinte forma:
+
+- `master`: versão estável já testada do software;
+- `updates`: versões que estão ainda em análise, para aprovação;
+
+Depois de testada e aprovada, a branch dos updates seria mergida com a branch main, de modo a garantir maior segurança e impedir uma sobreposição de versões não aprovadas pelo grupo.
+
+Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identificados por todos os membros do grupo.
+
+**Exemplo do grupo:**
+
+![Workflow do Git](images/workflow-git.png)
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
@@ -366,11 +351,11 @@ Para as nossas reuniões, estamos utilizando o Discord e fazendo encontros seman
 
 # Referências
 
-A lista a seguir traz as referências utilizadas nesse trabalho. são elas: 
- 
-> Problemas para se enturmar podem atrapalhar vida na faculdade... - Veja mais em 
->
->  https://educacao.uol.com.br/noticias/2013/03/11/problemas-para-se-enturmar-podem-atrapalhar-vida-na-faculdade.htm
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> Inclua todas as referências (livros, artigos, sites, etc) utilizados
+> no desenvolvimento do trabalho.
 > 
-> 
-> Afinal, por que é importante fazer bons amigos na faculdade... - Veja mais em https://blog.uceff.edu.br/afinal-por-que-e-importante-fazer-bons-amigos-na-faculdade/
+> **Links Úteis**:
+> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
+> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
