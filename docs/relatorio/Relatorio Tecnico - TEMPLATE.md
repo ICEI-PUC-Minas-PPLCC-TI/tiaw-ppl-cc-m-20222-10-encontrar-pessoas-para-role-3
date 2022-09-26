@@ -369,4 +369,6 @@ Para as nossas reuniões, estamos utilizando o Discord e fazendo encontros seman
 A lista a seguir traz as referências utilizadas nesse trabalho. são elas: 
  
 > Problemas para se enturmar podem atrapalhar vida na faculdade... - Veja mais em https://educacao.uol.com.br/noticias/2013/03/11/problemas-para-se-enturmar-podem-atrapalhar-vida-na-faculdade.htm
+> 
+> 
 > Afinal, por que é importante fazer bons amigos na faculdade... - Veja mais em https://blog.uceff.edu.br/afinal-por-que-e-importante-fazer-bons-amigos-na-faculdade/
