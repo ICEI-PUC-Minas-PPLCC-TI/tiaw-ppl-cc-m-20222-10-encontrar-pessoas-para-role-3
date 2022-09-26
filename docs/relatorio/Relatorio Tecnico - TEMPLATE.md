@@ -174,25 +174,24 @@ A interface principal do projeto irá exibir um resumo de todas as funcionalidad
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+### Página Inicial
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+![Tela inicial](images/wireframe1.png)
+
+### Página Login
+
+![Tela inicial](images/wireframe2.png)
+
+### Página Rolê
+
+![Tela inicial](images/wireframe3.png)
+
+## Protótipo Interativo
+
+O protótipo interativo desenvolvido no Figma pode ser visto clicando [aqui](https://www.figma.com/proto/KXxttrw4qgjAF1K7UaD9XQ/Prot%C3%B3tipo-Rol%C3%AA?node-id=11%3A79&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=11%3A79&show-proto-sidebar=1).
 
 
-# Metodologia
+# :pencil2: Metodologia
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
