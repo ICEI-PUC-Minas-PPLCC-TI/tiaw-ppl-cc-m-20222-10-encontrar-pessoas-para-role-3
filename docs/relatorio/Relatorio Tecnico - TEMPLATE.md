@@ -149,16 +149,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 # :art: Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+A interface principal do projeto irá exibir um resumo de todas as funcionalidades, com um feed dos rolês em destaque, uma lista de amigos para os usuários que fizerem o login e um menu de navegação. Os focos da interface serão a responsividade e a intuitividade de navegação pela plataforma por parte dos usuários.
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
 
 ## User Flow
 
 ......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+
 
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
