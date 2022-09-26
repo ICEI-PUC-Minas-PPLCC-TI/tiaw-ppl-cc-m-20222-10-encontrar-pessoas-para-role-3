@@ -183,16 +183,16 @@ Em primeiro momento, para nos organizarmos melhor, fizemos reuniões semanais de
 
 ## Divisão de Papéis
 
-Após algumas reuniões e conversas, o grupo decidiu dividir os membros e as funções da seguinte forma:
+Inicialmente, dividimos as funções igualmente para a primeira entrega. Posteriormente, ainda vamos definir como serão divididas as tarefas para cada membro do grupo.
 
 | Integrante  | Função              |
 |-----------|-------------------------|
-|André Luis | Função | 
-|Eduardo Henrique | Função |
-|Marcelo Victor | Função |
-|Nathan Lisboa | Função |
-|Pedro Malta | Função |
-|Rafael Cangussu | Função |
+|André Luis | A definir | 
+|Eduardo Henrique | A definir |
+|Marcelo Victor | A definir |
+|Nathan Lisboa | A definir |
+|Pedro Malta | A definir |
+|Rafael Cangussu | A definir |
 
 
 ## Ferramentas
