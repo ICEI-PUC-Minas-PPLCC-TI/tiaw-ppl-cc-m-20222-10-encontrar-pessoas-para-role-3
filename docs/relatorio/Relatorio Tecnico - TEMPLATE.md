@@ -12,7 +12,7 @@
 * Pedro Malta Boscatti
 * Rafael Cangussu Dallariva
 
-# Estrutura do Documento
+# :wrench: Estrutura do Documento
 
 - [Informações do Projeto](#informações-do-projeto)
   - [Participantes](#participantes)
@@ -47,7 +47,7 @@
 - [Referências](#referências)
 
 
-# :wrench: Introdução
+# :open_file_folder: Introdução
 
 
 ## Problema
@@ -84,11 +84,11 @@ Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto
 
 ## Personas e Mapas de Empatia
 
-* **Luiz Eduardo:** Luiz tem 19 anos é estudante de marketing, é uma pessoa muito extrovertida animada e amigável que tem como sonho ser um grande empresário e abrir um cassino. Ele usa o computador e o celular diariamente tanto para atividades de estudo como lazer. Quer saber quais são os rolês e como esta a situação deles diariamente. Gosta de se sentir incluido e que esteja com pessoas animadas como suas companhias.
+* **Luiz Eduardo:** Luiz tem 19 anos e é estudante de Publicidade e Propaganda. Ele é uma pessoa muito extrovertida, animada e amigável, que tem como sonho ser um grande empresário e abrir um cassino. Ele usa o computador e o celular diariamente tanto para atividades de estudo como para o lazer. Ele quer saber quais são os rolês e como está a situação deles diariamente. Gosta de se sentir incluído e de ter pessoas animadas como companhias.
 
-* **Lúcio Marcos:** Lúcio tem 26 anos é advogado, é uma pessoa bem humorada, simpática, tímida, calma e paciente adora ler e ver filmes tem como sonho casar, ter filhos, morar perto do trabalho em um local boêmio. Usa o notebook para trabalhar e ver filmes, o celular para conversar com os amigos e a televisão para ver jogos. Quer saber onde os amigos estão para saber com antecedência se o lugar é tranquilo e tem o estilo musical que ele gosta. Deve ter os seus momentos de privacidade respeitados mas sem deixar de incluí-lo em todos os rolês que sao mais calmos e combinam com a sua personalidade.
+* **Lúcio Marcos:** Lúcio tem 26 anos e é advogado. Ele é uma pessoa bem humorada, simpática, tímida, calma e paciente. Adora ler e ver filmes nas horas vagas. Ele tem como sonho casar, ter filhos e morar perto do trabalho em um local boêmio. Usa o notebook para trabalhar e ver filmes, o celular para conversar com os amigos e a televisão para ver esportes. Ele quer saber onde os amigos estão para saber com antecedência se o lugar é tranquilo e tem o estilo musical que ele mais gosta. Deve ter os seus momentos de privacidade respeitados, mas sem deixar de incluí-lo nos rolês que são mais calmos e combinam com a sua personalidade.
 
-* **Maria Clara:** Maria Clara tem 21 anos é influenciadora e estudante adora gravar videos de make, é uma pessoa sociável, engraçada, inteligente e responsável. Sonha em formar na faculdade conciliando com a vida de influenciadora. Usa o computador e o celular tanto para trabalhar, se entreter e estudar. Tem interesse no aplicativo pois quer promover eventos de grande escala e divulga-los tendo todo o apoio necessário para conseguir atrair um maior público.
+* **Maria Clara:** Maria Clara tem 21 anos e é estudante de Marketing e influenciadora digital. Ela adora gravar videos de maquiagem e é uma pessoa sociável, engraçada, inteligente e responsável. Sonha em se formar na faculdade conseguindo conciliar com a vida de influenciadora. Usa o computador e o celular tanto para trabalhar quanto para se entreter e estudar. Ela tem interesse na plataforma pois quer promover eventos de grande escala e divulgá-los tendo o apoio necessário para conseguir atrair um público maior.
 
 
 ## Histórias de Usuários
@@ -145,7 +145,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 
 
-# Projeto de Interface
+# :art: Projeto de Interface
 
 ......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
 
