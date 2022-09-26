@@ -193,23 +193,8 @@ O protótipo interativo desenvolvido no Figma pode ser visto clicando [aqui](htt
 
 # :pencil2: Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Em primeiro momento, para nos organizarmos melhor, fizemos reuniões semanais de algumas horas pelo Discord, onde produzimos juntos. Com o passar do tempo e a divisão de tarefas, pretendemos aumentar a frequência das reuniões e reduzir o tempo de duração das mesmas. Além disso, queremos utilizar o Trello para nos organizarmos com os prazos e produções.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
 
@@ -349,14 +334,10 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 > as melhorias geradas a partir dos resultados obtidos nos testes.
 
 
-# Referências
+# :paperclip: Referências
 
-A lista a seguir traz as referências utilizadas nesse trabalho. são elas:
+A lista a seguir traz as referências utilizadas nesse trabalho. São elas:
 
-Problemas para se enturmar podem atrapalhar vida na faculdade... - Veja mais em
+- Problemas para se enturmar podem atrapalhar vida na faculdade. **UOL Educação**, São Paulo, 13 de mar. de 2013. Disponível em: <https://educacao.uol.com.br/noticias/2013/03/11/problemas-para-se-enturmar-podem-atrapalhar-vida-na-faculdade.htm>. Acesso em 24 de set. de 2022.
 
-https://educacao.uol.com.br/noticias/2013/03/11/problemas-para-se-enturmar-podem-atrapalhar-vida-na-faculdade.htm
-
-Afinal, por que é importante fazer bons amigos na faculdade... - Veja mais em 
-
-https://blog.uceff.edu.br/afinal-por-que-e-importante-fazer-bons-amigos-na-faculdade/
+- Afinal, por que é importante fazer bons amigos na faculdade?. **UCEFF**, Chapecó. Disponível em: <https://blog.uceff.edu.br/afinal-por-que-e-importante-fazer-bons-amigos-na-faculdade/>. Acesso em 22 de set. de 2022.
