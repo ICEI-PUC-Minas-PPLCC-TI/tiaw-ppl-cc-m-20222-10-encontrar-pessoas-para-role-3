@@ -56,12 +56,12 @@
 
 Dia após dia a rotina das pessoas tem ficado cada vez mais corridas e, com isso, torna-se muito importante que tenham momentos de lazer para relaxar e tornar a vida menos estressante. Na atualidade, um dos exemplos para que ambos esses objetivos sejam atentidos com sucesso é as saídas, seja durante ou nos fins de semana, popularmente conhecidos como **rolês**.
 
-Diante disso, encontram-se alguns obstáculos que todas as faixas etárias encontram. São eles: O que eu vou fazer? O que tem pra fazer? Com quem irei? Vou gastar algo? Como irei? Onde meus amigos estão? Estou sozinho, mas mesmo assim quero socializar. Como eu faço? São esses e muitas outros problemas que iremos tentar ajudar a resolver com a nossa aplicação, tornando bem mais fácil e dinâmico uma saída de casa, ou até mesmo um rolê na sua própria casa.
+Diante disso, existem alguns obstáculos que todas as faixas etárias encontram. São eles: O que eu vou fazer? O que tem pra fazer? Com quem irei? Vou gastar algo? Como irei? Onde meus amigos estão? Estou sozinho, mas mesmo assim quero socializar. Como eu faço? São esses e muitas outros problemas que iremos tentar ajudar a resolver com a nossa aplicação, tornando bem mais fácil e dinâmico uma saída de casa, ou até mesmo um rolê na sua própria casa.
 
 
 ## Objetivos
 
-O objetivo geral do grupo é desenvolver uma plataforma para facilitar as pessoas a encontrarem um rolê onde elas vão se sentir a vontade e aproveitar cada minuto. Também, a saber informações crucias sobre o rolê (pessoas confirmadas, meio de transportes, preço, etc.), ter algumas interações em tempo real e poder avaliar o rolê para que pessoas que estão pensando em ir saibam se vale a pena ou não comparecer.
+O objetivo geral do grupo é desenvolver uma plataforma para facilitar para as pessoas encontrarem um rolê onde elas vão se sentir a vontade e aproveitar cada minuto. Também, a saber informações crucias sobre o rolê (pessoas confirmadas, meio de transportes, preço, etc.), ter algumas interações em tempo real e poder avaliar o rolê para que pessoas que estão pensando em ir saibam se vale a pena ou não comparecer.
 
 
 ## Justificativa
@@ -99,9 +99,9 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do aplicativo | Achar um rolê animado          | Me divertir              |
-|Usuário do aplicativo| Achar um rolê tranquilo | Encontrar meus amigos e me sentir confortável|
-|Promotor de um rolê       | Divulgar meu evento               | Aumentar o alcançe e o público  |
+|Luiz Eduardo | Achar um rolê animado          | Me divertir              |
+|Lúcio Marcos | Achar um rolê tranquilo | Encontrar meus amigos e me sentir confortável|
+|PMaria Clara       | Divulgar meu evento               | Aumentar o alcançe e o público  |
 
 
 ## Requisitos
