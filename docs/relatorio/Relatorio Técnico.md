@@ -116,11 +116,18 @@ As tabelas que se seguem apresentam os requisitos _funcionais_ e _não funcionai
 |RF-001| Cadastro de usuário | ALTA | 
 |RF-002| Interface do rolê com as devidas informações | ALTA |
 |RF-003| Localização/Mapa em tempo real | BAIXA |
-|RF-004| Lista de Amigos | ALTA |
+|RF-004| Lista de Amigos | MÉDIA |
 |RF-005| Feed com os rolês em destaque  | ALTA |
 |RF-006| Meios de locomoção  | MÉDIA |
 |RF-007| Busca de rolês (Barra de Pesquisa) | ALTA |
 |RF-008| Avaliação do rolê | ALTA |
+|RF-009| Página de login | ALTA | 
+|RF-010| Cadastro do role | ALTA | 
+|RF-011| Avaliação em tempo real do rolê | MÉDIA |
+|RF-012| Chat com os amigos | MÉDIA |
+|RF-013| Página do perfil da pessoa | MÉDIA |
+|RF-014| Aba (favoritos) seus rolês/ingresso | MÉDIA |
+|RF-015| Filtros tipo de rolê | MÉDIA |
 
 
 ### Requisitos Não Funcionais
