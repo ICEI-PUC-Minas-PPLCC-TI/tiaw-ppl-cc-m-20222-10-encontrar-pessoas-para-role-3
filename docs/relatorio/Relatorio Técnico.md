@@ -253,7 +253,7 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Desenvolvemos um web site com o objetivo de auxiliar todas as pessoas que tem dificuldades para encontrar um rolê. 
 
 ## Tecnologias Utilizadas
 
@@ -294,12 +294,12 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  TESTE 1 - EXIBIÇÃO PRINCIPAL ......
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
+> Ver página inicial
+> Fazer login
+> Criar conta
+> Atualização da página inicial
 > 
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
