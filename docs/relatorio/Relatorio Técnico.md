@@ -277,7 +277,8 @@ Hospedagem: github pages
 > 
 > **Exemplo do diagrama de Arquitetura**:
 > 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+> ![image](https://user-images.githubusercontent.com/113562821/205518685-6f5ee65d-2e9b-472d-801d-21add42f9c00.png)
+
 
 
 # Avaliação da Aplicação
