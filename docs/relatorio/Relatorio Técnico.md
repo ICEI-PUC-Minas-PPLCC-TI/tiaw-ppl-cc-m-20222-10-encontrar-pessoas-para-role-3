@@ -294,22 +294,6 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-
-## Ferramentas de Testes (Opcional)
-
-## Plano de Testes
-
 ## Testes validar a seção de comunidades
 
 ### Teste 1 - Ver Página Principal
@@ -330,16 +314,15 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 - ***Resultado esperado:***
     - No caso de todos os campos do formulário terem sido preenchidos corretamente, o tópico deve ser criado e o usuário, redirecionado à página principal da comunidade, de modo que o novo tópico será mostrado na última posição.
 
-### Teste 3 - Criar Tópico: ERRO
+### Teste 3 - Exibição Amigos
 
-- ***Pré condições:*** Página "comunidade" completa.
-- ***Ações:***
-    - Acessar a página para criar tópicos.
-    - Tentar criar um novo tópico com qualquer um dos campos em branco.
-    - Submeter.
-- ***Resultado esperado:***
-    - No caso em que qualquer um dos campos do formulário não tiver sido devidamente preenchido, a submissão do formulário deve falhar, com a devida mensagem de erro mostrada ao usuário.
-    - Com o erro, o usuário tem a possibilidade de corrigir os campos inválidos e submeter o formulário de modo correto.
+| Caso de Teste  | Exibição e manipulação de amigos              |
+|-----------|-------------------------|
+|Requisitos Associados  | |RF-004| Lista de Amigos  |
+| Objetivo de Teste | Verificar se a manipulação de usuários esta funcionando corretamente | 
+| Passos | 1-Acessar a página de usuários/2-Pesquisar usuário por nome/3-Adicionar usuário a lista de amigos/4-Remover usuário dos amigos |
+| Critérios de Êxito| Ao acessar a página de usuários deve-se aparecer uma lista com alguns usuários seus respectivos dados e um botão de adicionar/Se pesquisar o nome de alguem o filtro deve funcionar exibindo apenas aquelas ou aquela pessoa/Quando clicar o no botão de "adicionar" o usuário deverá ir para a sua lista de amigos/Quando clicado o botão vermelho o usuário devera ser removido da sua lista de amigos e voltar para a lista de usuários |
+
 
 ### Teste 4 - Apagar tópico
 
