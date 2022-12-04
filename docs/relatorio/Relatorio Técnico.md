@@ -287,7 +287,7 @@ Foram criados planos de testes para apresentar o funcionamento das situações r
 
 ## Plano de Testes
 
-## Testes validar a seção de comunidades
+
 
 ### Teste 1 - Ver Página Principal Cadastro e Login
 
