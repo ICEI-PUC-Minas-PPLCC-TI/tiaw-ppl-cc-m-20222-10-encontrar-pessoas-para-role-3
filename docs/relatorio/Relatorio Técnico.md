@@ -329,6 +329,48 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 
 
 
+### Teste 4 - Página do evento
+
+| Caso de Teste  | Página do Evento              |
+|-----------|-------------------------|
+|Requisitos Associados  | RF-002 - Interface do evento com as devidas informações/ RF-003 - Localização em tempo real/RF-008 - Avaliação do evento/RF-011 - Avaliação do evento em tempo real/RF-016 - Confirmação de presença |
+| Objetivo de Teste | Verificar se exibição do evento está ocorrendo corretamente, com dados, avaliação, espaço de comentários funcional e confirmação de presença | 
+| Passos | 1- Ver página detalhada do evento/2-Clicar nas informações de localização e ser redirecionado/3- Comentar no feed do evento/4-Confirmar presença no evento |
+| Critérios de Êxito|  A página deve ser exibida dinamicamente, por meio dos dados do Local Storage/Ser redirecionado para o Google Maps com o endereço informado no evento/O comentário ser exibido no feed com nome e foto do usuário logado /A foto do usuário logado ser exibido na confirmação de presença do painel lateral |
+
+
+
+### Teste 5 - Página do usuário
+
+| Caso de Teste  | Exibir página de perfil da pessoa             |
+|-----------|-------------------------|
+|Requisitos Associados  | RF-013 Página do perfil da pessoa/RF-018 Comentário sobre a pessoa|
+| Objetivo de Teste | Exibir página de perfil da pessoa  | 
+| Passos | 1-Ver a página de perfil/2-Exibe informações sobre a pessoa/3-Exibe os comentarios do perfil/4-Atualização da página inicial |
+| Critérios de Êxito|  Será exibido o perfil da pessoa e informações sobre ela/Exibe comentarios do perfil da pessoa |
+
+
+
+### Teste 6 - Exibição Amigos
+
+| Caso de Teste  | Exibição e manipulação de amigos              |
+|-----------|-------------------------|
+|Requisitos Associados  | RF-004 Lista de Amigos  |
+| Objetivo de Teste | Verificar se a manipulação de usuários esta funcionando corretamente | 
+| Passos | 1-Acessar a página de usuários/2-Pesquisar usuário por nome/3-Adicionar usuário a lista de amigos/4-Remover usuário dos amigos |
+| Critérios de Êxito|  Ao acessar a página de usuários deve-se aparecer uma lista com alguns usuários seus respectivos dados e um botão de adicionar/Se pesquisar o nome de alguem o filtro deve funcionar exibindo apenas aquelas ou aquela pessoa/Quando clicar no botão de "adicionar" o usuário deverá ir para a sua lista de amigos /Quando clicado o botão vermelho o usuário devera ser removido da sua lista de amigos e voltar para a lista de usuários |
+
+
+
+### Teste 7 - Exibição Amigos
+
+| Caso de Teste  | Exibição e manipulação de amigos              |
+|-----------|-------------------------|
+|Requisitos Associados  | RF-004 Lista de Amigos  |
+| Objetivo de Teste | Verificar se a manipulação de usuários esta funcionando corretamente | 
+| Passos | 1-Acessar a página de usuários/2-Pesquisar usuário por nome/3-Adicionar usuário a lista de amigos/4-Remover usuário dos amigos |
+| Critérios de Êxito|  Ao acessar a página de usuários deve-se aparecer uma lista com alguns usuários seus respectivos dados e um botão de adicionar/Se pesquisar o nome de alguem o filtro deve funcionar exibindo apenas aquelas ou aquela pessoa/Quando clicar no botão de "adicionar" o usuário deverá ir para a sua lista de amigos /Quando clicado o botão vermelho o usuário devera ser removido da sua lista de amigos e voltar para a lista de usuários |
+
 ---
 ## Registros de Testes
 
