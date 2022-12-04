@@ -197,12 +197,12 @@ Inicialmente, dividimos as funções igualmente para a primeira entrega. Posteri
 
 | Integrante  | Função              |
 |-----------|-------------------------|
-|André Luis | A definir | 
-|Eduardo Henrique | A definir |
-|Marcelo Victor | A definir |
-|Nathan Lisboa | A definir |
-|Pedro Malta | A definir |
-|Rafael Cangussu | A definir |
+|André Luis | Design Gráfico | 
+|Eduardo Henrique | Design Gráfico |
+|Marcelo Victor | BackEnd |
+|Nathan Lisboa | FrontEnd |
+|Pedro Malta | FrontEnd |
+|Rafael Cangussu | BackEnd |
 
 
 ## Ferramentas
