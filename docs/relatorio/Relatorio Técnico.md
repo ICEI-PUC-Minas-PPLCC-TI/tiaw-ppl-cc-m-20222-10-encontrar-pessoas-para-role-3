@@ -128,6 +128,9 @@ As tabelas que se seguem apresentam os requisitos _funcionais_ e _não funcionai
 |RF-013| Página do perfil da pessoa | MÉDIA |
 |RF-014| Aba (favoritos) seus rolês/ingresso | MÉDIA |
 |RF-015| Filtros tipo de rolê | MÉDIA |
+|RF-016| Confirmação de presença | MÉDIA | 
+|RF-017| Página onde a pessoa avalia | MÉDIA |
+|RF-018| Comentário sobre a pessoa| MÉDIA | 
 
 
 ### Requisitos Não Funcionais
@@ -362,14 +365,14 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 
 
 
-### Teste 7 - Exibição Amigos
+### Teste 7 - Validação de Logout
 
-| Caso de Teste  | Exibição e manipulação de amigos              |
+| Caso de Teste  | Validação de Logout             |
 |-----------|-------------------------|
-|Requisitos Associados  | RF-004 Lista de Amigos  |
-| Objetivo de Teste | Verificar se a manipulação de usuários esta funcionando corretamente | 
-| Passos | 1-Acessar a página de usuários/2-Pesquisar usuário por nome/3-Adicionar usuário a lista de amigos/4-Remover usuário dos amigos |
-| Critérios de Êxito|  Ao acessar a página de usuários deve-se aparecer uma lista com alguns usuários seus respectivos dados e um botão de adicionar/Se pesquisar o nome de alguem o filtro deve funcionar exibindo apenas aquelas ou aquela pessoa/Quando clicar no botão de "adicionar" o usuário deverá ir para a sua lista de amigos /Quando clicado o botão vermelho o usuário devera ser removido da sua lista de amigos e voltar para a lista de usuários |
+|Requisitos Associados  |  RF-009 - Página de login  |
+| Objetivo de Teste | Verificar se o logout está ocorrendo normalmente | 
+| Passos | 1-Clicar no botão de Logout/2-Conferir o Session Storage do navegador/ |
+| Critérios de Êxito|  As páginas do site devem retornar para o padrão, com a Navbar sem opções/  O usuário deve desaparecer do Session Storage |
 
 ---
 ## Registros de Testes
