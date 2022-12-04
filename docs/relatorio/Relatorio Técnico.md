@@ -298,12 +298,12 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 
 ### Teste 1 - Ver Página Principal Cadastro e Login
 
-| Caso de Teste  | Exibição da página principal cadastro e login         |
+| Caso de Teste  | Exibição da Página Principal, Cadastro e Login       |
 |-----------|-------------------------|
 |Requisitos Associados  | RF-009	Página de login/RF-001	Cadastro de usuário  |
-| Objetivo de Teste | Exibir página inicial limitada inicialmente | 
-| Passos | 1- Ver a página inicial/2-Criar conta/3-Fazer login/4-Atualização da página inicial |
-| Critérios de Êxito|  A página inicial será exibida primeiro sem as opções na navbar / Após o login serão exibidos novas opções na navbar permitindo navegar por todo o site / |
+| Objetivo de Teste |Exibir a página inicial de maneira limitada, inicialmente e, após o login, exibir ela de maneira completa | 
+| Passos | 1-Acessar o navegador e informar o endereço do site/2-Visualizar a página inicial/3-Criar uma conta/4- Fazer login/5- Ver a página inicial atualizada |
+| Critérios de Êxito|   A página inicial será exibida sem as opções na Navbar /  O cadastro de usuário ser bem sucedido /Após o login com as informações de cadastro informadas, serão exibidas novas opções na Navbar, permitindo a navegação por todo o site |
 
 
 ### Teste 2 - Exibição de Eventos
@@ -351,7 +351,7 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 
 
 
-### Teste 6 - Exibição Amigos
+### Teste 6 - Página do Perfil
 
 | Caso de Teste  | Página do Perfil              |
 |-----------|-------------------------|
