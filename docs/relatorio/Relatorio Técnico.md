@@ -321,7 +321,7 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 |Requisitos Associados  | RF-004 Lista de Amigos  |
 | Objetivo de Teste | Verificar se a manipulação de usuários esta funcionando corretamente | 
 | Passos | 1-Acessar a página de usuários/2-Pesquisar usuário por nome/3-Adicionar usuário a lista de amigos/4-Remover usuário dos amigos |
-| Critérios de Êxito| Ao acessar a página de usuários deve-se aparecer uma lista com alguns usuários seus respectivos dados e um botão de adicionar/Se pesquisar o nome de alguem o filtro deve funcionar exibindo apenas aquelas ou aquela pessoa/Quando clicar o no botão de "adicionar" o usuário deverá ir para a sua lista de amigos/Quando clicado o botão vermelho o usuário devera ser removido da sua lista de amigos e voltar para a lista de usuários |
+| Critérios de Êxito| ***Ao acessar a página de usuários deve-se aparecer uma lista com alguns usuários seus respectivos dados e um botão de adicionar***Se pesquisar o nome de alguem o filtro deve funcionar exibindo apenas aquelas ou aquela pessoa***Quando clicar no botão de "adicionar" o usuário deverá ir para a sua lista de amigos***Quando clicado o botão vermelho o usuário devera ser removido da sua lista de amigos e voltar para a lista de usuários |
 
 
 ### Teste 4 - Apagar tópico
