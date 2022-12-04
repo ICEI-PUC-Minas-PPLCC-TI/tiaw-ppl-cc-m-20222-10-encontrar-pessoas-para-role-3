@@ -296,23 +296,27 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 
 ## Testes validar a seção de comunidades
 
-### Teste 1 - Ver Página Principal
+### Teste 1 - Exibição Amigos
 
-- ***Pré condições:*** Página "comunidade" completa.
-- ***Ações:***
-    - Acessar a página da comunidade
-- ***Resultado esperado:***
-    - A página da comunidade deve mostrar todos os tópicos existentes, permitindo o acesso individual a cada um deles. Deve também mostrar um link para criar um novo tópico.
+| Caso de Teste  | Exibição e manipulação de amigos              |
+|-----------|-------------------------|
+|Requisitos Associados  | RF-004 Lista de Amigos  |
+| Objetivo de Teste | Verificar se a manipulação de usuários esta funcionando corretamente | 
+| Passos | 1-Acessar a página de usuários/2-Pesquisar usuário por nome/3-Adicionar usuário a lista de amigos/4-Remover usuário dos amigos |
+| Critérios de Êxito|  Ao acessar a página de usuários deve-se aparecer uma lista com alguns usuários seus respectivos dados e um botão de adicionar/Se pesquisar o nome de alguem o filtro deve funcionar exibindo apenas aquelas ou aquela pessoa/Quando clicar no botão de "adicionar" o usuário deverá ir para a sua lista de amigos /Quando clicado o botão vermelho o usuário devera ser removido da sua lista de amigos e voltar para a lista de usuários |
 
-### Teste 2 - Criar Tópico
 
-- ***Pré condições:*** Página "comunidade" completa.
-- ***Ações:***
-    - Acessar a página para criar tópicos.
-    - Completar todos os campos exigidos pelo formulário.
-    - Submeter.
-- ***Resultado esperado:***
-    - No caso de todos os campos do formulário terem sido preenchidos corretamente, o tópico deve ser criado e o usuário, redirecionado à página principal da comunidade, de modo que o novo tópico será mostrado na última posição.
+### Teste 2 - Exibição de Eventos
+
+
+| Caso de Teste  | Exibição de eventos            |
+|-----------|-------------------------|
+|Requisitos Associados  | RF-007 - Busca de eventos (barra de pesquisa) \ RF-010 - Cadastro do evento \ RF-015 - Filtragem dos tipos de evento  |
+| Objetivo de Teste | Verificar se exibição, pesquisa, filtragem e cadastro de eventos está ocorrendo corretamente | 
+| Passos | 1-Acessar o navegador e informar o endereço do site/2-Visualizar a página de eventos/3-Pesquisar evento por nome/4-Filtrar o tipo de evento/5-Favoritar algum evento/6-Cadastrar um evento |
+| Critérios de Êxito| A exibição dinâmica dos eventos deve ocorrer por meio dos dados do Local Storage/  Os eventos resultantes da pesquisa devem aparecer na mesma página, de acordo com o número de resultados/O filtro do evento deve reexibir apenas aqueles que se encaixam na categoria /O evento favoritado deve ficar com um símbolo de coração vermelho e ser armazenado no Local Storage de Favoritos/ Após cadastrar algum novo evento, ele deve ser exibido na mesma página dos outros, podendo ser visto individualmente e filtrado
+
+
 
 ### Teste 3 - Exibição Amigos
 
@@ -321,7 +325,7 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 |Requisitos Associados  | RF-004 Lista de Amigos  |
 | Objetivo de Teste | Verificar se a manipulação de usuários esta funcionando corretamente | 
 | Passos | 1-Acessar a página de usuários/2-Pesquisar usuário por nome/3-Adicionar usuário a lista de amigos/4-Remover usuário dos amigos |
-| Critérios de Êxito| *Ao acessar a página de usuários deve-se aparecer uma lista com alguns usuários seus respectivos dados e um botão de adicionar *Se pesquisar o nome de alguem o filtro deve funcionar exibindo apenas aquelas ou aquela pessoa *Quando clicar no botão de "adicionar" o usuário deverá ir para a sua lista de amigos *Quando clicado o botão vermelho o usuário devera ser removido da sua lista de amigos e voltar para a lista de usuários |
+| Critérios de Êxito|  Ao acessar a página de usuários deve-se aparecer uma lista com alguns usuários seus respectivos dados e um botão de adicionar/Se pesquisar o nome de alguem o filtro deve funcionar exibindo apenas aquelas ou aquela pessoa/Quando clicar no botão de "adicionar" o usuário deverá ir para a sua lista de amigos /Quando clicado o botão vermelho o usuário devera ser removido da sua lista de amigos e voltar para a lista de usuários |
 
 
 ### Teste 4 - Apagar tópico
