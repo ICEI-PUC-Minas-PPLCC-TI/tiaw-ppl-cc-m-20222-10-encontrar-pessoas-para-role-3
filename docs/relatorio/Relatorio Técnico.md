@@ -345,9 +345,9 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 | Caso de Teste  | Exibir página do usuário             |
 |-----------|-------------------------|
 |Requisitos Associados  | RF-013 Página do perfil da pessoa/RF-018 Comentário sobre a pessoa|
-| Objetivo de Teste | Exibir página de perfil da pessoa  | 
-| Passos | 1-Ver a página de perfil/2-Exibe informações sobre a pessoa/3-Exibe os comentarios do perfil/4-Atualização da página inicial |
-| Critérios de Êxito|  Será exibido o perfil da pessoa e informações sobre ela/Exibe comentarios do perfil da pessoa |
+| Objetivo de Teste | Verificar se exibição da página do usuário está acontecendo corretamente, com os dados detalhados e um feed de recados  | 
+| Passos | 1-Ver página detalhada do usuário/2-Clicar nas páginas de informação e feed e alternar entre elas/3-Digitar algum comentário do perfil/4-Clicar no botão de enviar mensagem |
+| Critérios de Êxito|  A página deve ser exibida dinamicamente, por meio dos dados do Local Storage/O comentário enviado aparece na aba de recados do perfil do usuário/O botão de mensagem redireciona para um aplicativo de email com o devido contato do usuário |
 
 
 
