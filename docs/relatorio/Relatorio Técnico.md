@@ -375,14 +375,6 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 | Critérios de Êxito|  As páginas do site devem retornar para o padrão, com a Navbar sem opções/  O usuário deve desaparecer do Session Storage |
 
 ---
-## Registros de Testes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
 
 
 # :paperclip: Referências
