@@ -296,14 +296,14 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 
 ## Testes validar a seção de comunidades
 
-### Teste 1 - Exibição Amigos
+### Teste 1 - Ver Página Principal Cadastro e Login
 
-| Caso de Teste  | Exibição e manipulação de amigos              |
+| Caso de Teste  | Exibição da página principal cadastro e login         |
 |-----------|-------------------------|
-|Requisitos Associados  | RF-004 Lista de Amigos  |
-| Objetivo de Teste | Verificar se a manipulação de usuários esta funcionando corretamente | 
-| Passos | 1-Acessar a página de usuários/2-Pesquisar usuário por nome/3-Adicionar usuário a lista de amigos/4-Remover usuário dos amigos |
-| Critérios de Êxito|  Ao acessar a página de usuários deve-se aparecer uma lista com alguns usuários seus respectivos dados e um botão de adicionar/Se pesquisar o nome de alguem o filtro deve funcionar exibindo apenas aquelas ou aquela pessoa/Quando clicar no botão de "adicionar" o usuário deverá ir para a sua lista de amigos /Quando clicado o botão vermelho o usuário devera ser removido da sua lista de amigos e voltar para a lista de usuários |
+|Requisitos Associados  | RF-009	Página de login/RF-001	Cadastro de usuário  |
+| Objetivo de Teste | Exibir página inicial limitada inicialmente | 
+| Passos | 1- Ver a página inicial/2-Criar conta/3-Fazer login/4-Atualização da página inicial |
+| Critérios de Êxito|  A página inicial será exibida primeiro sem as opções na navbar / Após o login serão exibidos novas opções na navbar permitindo navegar por todo o site / |
 
 
 ### Teste 2 - Exibição de Eventos
