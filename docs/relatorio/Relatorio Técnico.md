@@ -342,7 +342,7 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 
 ### Teste 5 - Página do usuário
 
-| Caso de Teste  | Exibir página de perfil da pessoa             |
+| Caso de Teste  | Exibir página do usuário             |
 |-----------|-------------------------|
 |Requisitos Associados  | RF-013 Página do perfil da pessoa/RF-018 Comentário sobre a pessoa|
 | Objetivo de Teste | Exibir página de perfil da pessoa  | 
@@ -353,12 +353,12 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 
 ### Teste 6 - Exibição Amigos
 
-| Caso de Teste  | Exibição e manipulação de amigos              |
+| Caso de Teste  | Página do Perfil              |
 |-----------|-------------------------|
-|Requisitos Associados  | RF-004 Lista de Amigos  |
-| Objetivo de Teste | Verificar se a manipulação de usuários esta funcionando corretamente | 
-| Passos | 1-Acessar a página de usuários/2-Pesquisar usuário por nome/3-Adicionar usuário a lista de amigos/4-Remover usuário dos amigos |
-| Critérios de Êxito|  Ao acessar a página de usuários deve-se aparecer uma lista com alguns usuários seus respectivos dados e um botão de adicionar/Se pesquisar o nome de alguem o filtro deve funcionar exibindo apenas aquelas ou aquela pessoa/Quando clicar no botão de "adicionar" o usuário deverá ir para a sua lista de amigos /Quando clicado o botão vermelho o usuário devera ser removido da sua lista de amigos e voltar para a lista de usuários |
+|Requisitos Associados  | RF-013 - Página do perfil do usuário  |
+| Objetivo de Teste | Verificar se exibição da página do perfil está acontecendo corretamente, com as estatísticas de amigos e favoritos | 
+| Passos | 1-Ver página detalhada do perfil logado/2-Ver página detalhada dos eventos favoritos/3-Remover um evento favoritado |
+| Critérios de Êxito|  A página deve ser exibida dinamicamente, por meio dos dados do Session Storage/As estatísticas do número de amigos e favoritos deve estar correta/Caso um evento seja removido, ele deve desaparecer da aba de favoritos no mesmo momento  |
 
 
 
