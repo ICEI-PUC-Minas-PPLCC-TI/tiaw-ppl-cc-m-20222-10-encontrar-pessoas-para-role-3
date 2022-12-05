@@ -38,13 +38,11 @@
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
   - [Controle de Versão](#controle-de-versão)
-- [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Arquitetura da solução](#arquitetura-da-solução)
 - [Avaliação da Aplicação](#avaliação-da-aplicação)
   - [Plano de Testes](#plano-de-testes)
-  - [Ferramentas de Testes (Opcional)](#ferramentas-de-testes-opcional)
   - [Registros de Testes](#registros-de-testes)
 - [Referências](#referências)
 
@@ -199,10 +197,10 @@ Inicialmente, dividimos as funções igualmente para a primeira entrega. Posteri
 |-----------|-------------------------|
 |André Luis | Design Gráfico | 
 |Eduardo Henrique | Design Gráfico |
-|Marcelo Victor | BackEnd |
-|Nathan Lisboa | FrontEnd |
-|Pedro Malta | FrontEnd |
-|Rafael Cangussu | BackEnd |
+|Marcelo Victor | Back End |
+|Nathan Lisboa | Front End |
+|Pedro Malta | Front End |
+|Rafael Cangussu | Back End |
 
 
 ## Ferramentas
@@ -211,9 +209,9 @@ Para as nossas reuniões, estamos utilizando o Discord e fazendo encontros seman
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVPUre77E=/ | 
-|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20222-10-encontrar-pessoas-para-role-3 | 
-|Protótipo Interativo | Figma | https://www.figma.com/proto/KXxttrw4qgjAF1K7UaD9XQ/Prot%C3%B3tipo-Rol%C3%AA?node-id=11%3A79&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=11%3A79&show-proto-sidebar=1 | 
+|Processo de Design Thinkgin  | Miro |  [Link](https://miro.com/app/board/uXjVPUre77E=/) | 
+|Repositório de código | GitHub | [Link](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20222-10-encontrar-pessoas-para-role-3) | 
+|Protótipo Interativo | Figma | [Link](https://www.figma.com/proto/KXxttrw4qgjAF1K7UaD9XQ/Prot%C3%B3tipo-Rol%C3%AA?node-id=11%3A79&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=11%3A79&show-proto-sidebar=1) | 
 
  
 > As ferramentas empregadas no projeto são:
@@ -251,64 +249,53 @@ Eventuais bugs poderão utilizar a tag `bugs`, para que sejam rapidamente identi
 
 ![Workflow do Git](images/workflow-git.png)
 
-# **############## SPRINT 1 ACABA AQUI #############**
 
-
-# Projeto da Solução
+# :key: Projeto da Solução
 
 Criar uma plataforma que possui ferramentas para auxiliar as pessoas na dinamica de encontrar um evento e se socializar.
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Foram utilizadas as seguintes linguagens na criação da nossa aplicação web: HTML, CSS e JAVASCRIPT e o GitHub Pages para a hospedagem do site.
 
-Foram utilizadas as seguintes linguagens na criação da nossa aplicação web: HTML, CSS e JAVASCRIPT e o github pages para a hospedagem do site
+## Arquitetura da Solução
 
-## Arquitetura da solução
+>Navegador: HTML + CSS + JavaScript Local Storage
+>
+>Internet
+>
+>Hospedagem: GitHub Pages
+ 
+![image](https://user-images.githubusercontent.com/113562821/205518685-6f5ee65d-2e9b-472d-801d-21add42f9c00.png)
 
-Navegador: HTML + CSS + JavaScript Local Storage
-
-Internet
-
-Hospedagem: github pages
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![image](https://user-images.githubusercontent.com/113562821/205518685-6f5ee65d-2e9b-472d-801d-21add42f9c00.png)
+Nossa plataforma utilizou os Storages Locais e de Sessão do Navegador para simular um ambiente funcional de cadastro e contato entre usuários.
 
 
-
-# Avaliação da Aplicação
+# :bar_chart: Avaliação da Aplicação
 
 Foram criados planos de testes para apresentar o funcionamento das situações requisitadas e restritas do projeto, a separação entre testes diferentes se mostra um conhecimento útil para os desenvolvedores, que precisam saber o que pode ocorrer na interação do usuário com o site.
 
 ## Plano de Testes
 
 
-
 ### Teste 1 - Ver Página Principal Cadastro e Login
 
 | Caso de Teste  | Exibição da Página Principal, Cadastro e Login       |
 |-----------|-------------------------|
-|Requisitos Associados  | RF-009	Página de login/RF-001	Cadastro de usuário  |
+|Requisitos Associados  | RF-001 - Cadastro de usuário<br/>RF-009 - Página de login  |
 | Objetivo de Teste |Exibir a página inicial de maneira limitada, inicialmente e, após o login, exibir ela de maneira completa | 
-| Passos | 1-Acessar o navegador e informar o endereço do site/2-Visualizar a página inicial/3-Criar uma conta/4- Fazer login/5- Ver a página inicial atualizada |
-| Critérios de Êxito|   A página inicial será exibida sem as opções na Navbar /  O cadastro de usuário ser bem sucedido /Após o login com as informações de cadastro informadas, serão exibidas novas opções na Navbar, permitindo a navegação por todo o site |
+| Passos | 1 - Acessar o navegador e informar o endereço do site<br/>2 - Visualizar a página inicial<br/>3 - Criar uma conta<br/>4 - Fazer login<br/>5 - Ver a página inicial atualizada |
+| Critérios de Êxito|   • A página inicial será exibida sem as opções na Navbar<br/> • O cadastro de usuário ser bem sucedido<br/> • Após o login com as informações de cadastro informadas, serão exibidas novas opções na Navbar, permitindo a navegação por todo o site |
 
 
 ### Teste 2 - Exibição de Eventos
 
-
 | Caso de Teste  | Exibição de eventos            |
 |-----------|-------------------------|
-|Requisitos Associados  | RF-007 - Busca de eventos (barra de pesquisa) \ RF-010 - Cadastro do evento \ RF-015 - Filtragem dos tipos de evento  |
+|Requisitos Associados  | RF-007 - Busca de eventos (barra de pesquisa)<br/>RF-010 - Cadastro do evento<br/>RF-015 - Filtragem dos tipos de evento  |
 | Objetivo de Teste | Verificar se exibição, pesquisa, filtragem e cadastro de eventos está ocorrendo corretamente | 
-| Passos | 1-Acessar o navegador e informar o endereço do site/2-Visualizar a página de eventos/3-Pesquisar evento por nome/4-Filtrar o tipo de evento/5-Favoritar algum evento/6-Cadastrar um evento |
-| Critérios de Êxito| A exibição dinâmica dos eventos deve ocorrer por meio dos dados do Local Storage/  Os eventos resultantes da pesquisa devem aparecer na mesma página, de acordo com o número de resultados/O filtro do evento deve reexibir apenas aqueles que se encaixam na categoria /O evento favoritado deve ficar com um símbolo de coração vermelho e ser armazenado no Local Storage de Favoritos/ Após cadastrar algum novo evento, ele deve ser exibido na mesma página dos outros, podendo ser visto individualmente e filtrado
-
+| Passos | 1 - Acessar o navegador e informar o endereço do site<br/>2 - Visualizar a página de eventos<br/>3 - Pesquisar evento por nome<br/>4 - Filtrar o tipo de evento<br/>5 - Favoritar algum evento<br/>6 - Cadastrar um evento |
+| Critérios de Êxito|  • A exibição dinâmica dos eventos deve ocorrer por meio dos dados do Local Storage<br/> • Os eventos resultantes da pesquisa devem aparecer na mesma página, de acordo com o número de resultados<br/> • O filtro do evento deve reexibir apenas aqueles que se encaixam na categoria<br/> • O evento favoritado deve ficar com um símbolo de coração vermelho e ser armazenado no Local Storage de Favoritos<br/> • Após cadastrar algum novo evento, ele deve ser exibido na mesma página dos outros, podendo ser visto individualmente e filtrado
 
 
 ### Teste 3 - Exibição Amigos
@@ -317,30 +304,30 @@ Foram criados planos de testes para apresentar o funcionamento das situações r
 |-----------|-------------------------|
 |Requisitos Associados  | RF-004 Lista de Amigos  |
 | Objetivo de Teste | Verificar se a manipulação de usuários esta funcionando corretamente | 
-| Passos | 1-Acessar a página de usuários/2-Pesquisar usuário por nome/3-Adicionar usuário a lista de amigos/4-Remover usuário dos amigos |
-| Critérios de Êxito|  Ao acessar a página de usuários deve-se aparecer uma lista com alguns usuários seus respectivos dados e um botão de adicionar/Se pesquisar o nome de alguem o filtro deve funcionar exibindo apenas aquelas ou aquela pessoa/Quando clicar no botão de "adicionar" o usuário deverá ir para a sua lista de amigos /Quando clicado o botão vermelho o usuário devera ser removido da sua lista de amigos e voltar para a lista de usuários |
+| Passos | 1 - Acessar a página de usuários<br/>2 - Pesquisar usuário por nome<br/>3 - Adicionar usuário a lista de amigos<br/>4 - Remover usuário dos amigos |
+| Critérios de Êxito|   • Ao acessar a página de usuários deve-se aparecer uma lista com alguns usuários seus respectivos dados e um botão de adicionar<br/> • Se pesquisar o nome de alguem o filtro deve funcionar exibindo apenas aquelas ou aquela pessoa<br/> • Quando clicar no botão de "adicionar" o usuário deverá ir para a sua lista de amigos<br/> • Quando clicado o botão vermelho o usuário devera ser removido da sua lista de amigos e voltar para a lista de usuários |
 
 
 
-### Teste 4 - Página do evento
+### Teste 4 - Página do Evento
 
 | Caso de Teste  | Página do Evento              |
 |-----------|-------------------------|
-|Requisitos Associados  | RF-002 - Interface do evento com as devidas informações/ RF-003 - Localização em tempo real/RF-008 - Avaliação do evento/RF-011 - Avaliação do evento em tempo real/RF-016 - Confirmação de presença |
+|Requisitos Associados  | RF-002 - Interface do evento com as devidas informações<br/>RF-003 - Localização em tempo real<br/>RF-008 - Avaliação do evento<br/>RF-011 - Avaliação do evento em tempo real<br/>RF-016 - Confirmação de presença |
 | Objetivo de Teste | Verificar se exibição do evento está ocorrendo corretamente, com dados, avaliação, espaço de comentários funcional e confirmação de presença | 
-| Passos | 1- Ver página detalhada do evento/2-Clicar nas informações de localização e ser redirecionado/3- Comentar no feed do evento/4-Confirmar presença no evento |
-| Critérios de Êxito|  A página deve ser exibida dinamicamente, por meio dos dados do Local Storage/Ser redirecionado para o Google Maps com o endereço informado no evento/O comentário ser exibido no feed com nome e foto do usuário logado /A foto do usuário logado ser exibido na confirmação de presença do painel lateral |
+| Passos | 1 - Ver página detalhada do evento<br/>2 - Clicar nas informações de localização e ser redirecionado<br/>3 - Comentar no feed do evento<br/>4 - Confirmar presença no evento |
+| Critérios de Êxito|   • A página deve ser exibida dinamicamente, por meio dos dados do Local Storage<br/> • Ser redirecionado para o Google Maps com o endereço informado no evento<br/> • O comentário ser exibido no feed com nome e foto do usuário logado<br/> • A foto do usuário logado ser exibido na confirmação de presença do painel lateral |
 
 
 
-### Teste 5 - Página do usuário
+### Teste 5 - Página do Usuário
 
 | Caso de Teste  | Exibir página do usuário             |
 |-----------|-------------------------|
-|Requisitos Associados  | RF-013 Página do perfil da pessoa/RF-018 Comentário sobre a pessoa|
+|Requisitos Associados  | RF-013 Página do perfil da pessoa<br/>RF-018 Comentário sobre a pessoa |
 | Objetivo de Teste | Verificar se exibição da página do usuário está acontecendo corretamente, com os dados detalhados e um feed de recados  | 
-| Passos | 1-Ver página detalhada do usuário/2-Clicar nas páginas de informação e feed e alternar entre elas/3-Digitar algum comentário do perfil/4-Clicar no botão de enviar mensagem |
-| Critérios de Êxito|  A página deve ser exibida dinamicamente, por meio dos dados do Local Storage/O comentário enviado aparece na aba de recados do perfil do usuário/O botão de mensagem redireciona para um aplicativo de email com o devido contato do usuário |
+| Passos | 1 - Ver página detalhada do usuário<br/>2 - Clicar nas páginas de informação e feed e alternar entre elas<br/>3 - Digitar algum comentário do perfil<br/>4 - Clicar no botão de enviar mensagem |
+| Critérios de Êxito|   • A página deve ser exibida dinamicamente, por meio dos dados do Local Storage<br/> • O comentário enviado aparece na aba de recados do perfil do usuário<br/> • O botão de mensagem redireciona para um aplicativo de email com o devido contato do usuário |
 
 
 
@@ -350,8 +337,8 @@ Foram criados planos de testes para apresentar o funcionamento das situações r
 |-----------|-------------------------|
 |Requisitos Associados  | RF-013 - Página do perfil do usuário  |
 | Objetivo de Teste | Verificar se exibição da página do perfil está acontecendo corretamente, com as estatísticas de amigos e favoritos | 
-| Passos | 1-Ver página detalhada do perfil logado/2-Ver página detalhada dos eventos favoritos/3-Remover um evento favoritado |
-| Critérios de Êxito|  A página deve ser exibida dinamicamente, por meio dos dados do Session Storage/As estatísticas do número de amigos e favoritos deve estar correta/Caso um evento seja removido, ele deve desaparecer da aba de favoritos no mesmo momento  |
+| Passos | 1 - Ver página detalhada do perfil logado<br/>2 - Ver página detalhada dos eventos favoritos<br/>3 - Remover um evento favoritado |
+| Critérios de Êxito|   • A página deve ser exibida dinamicamente, por meio dos dados do Session Storage<br/> • As estatísticas do número de amigos e favoritos deve estar correta<br/> • Caso um evento seja removido, ele deve desaparecer da aba de favoritos no mesmo momento  |
 
 
 
@@ -361,8 +348,8 @@ Foram criados planos de testes para apresentar o funcionamento das situações r
 |-----------|-------------------------|
 |Requisitos Associados  |  RF-009 - Página de login  |
 | Objetivo de Teste | Verificar se o logout está ocorrendo normalmente | 
-| Passos | 1-Clicar no botão de Logout/2-Conferir o Session Storage do navegador/ |
-| Critérios de Êxito|  As páginas do site devem retornar para o padrão, com a Navbar sem opções/  O usuário deve desaparecer do Session Storage |
+| Passos | 1 - Clicar no botão de Logout<br/>2 - Conferir o Session Storage do navegador |
+| Critérios de Êxito|   • As páginas do site devem retornar para o padrão, com a Navbar sem opções<br/> • O usuário deve desaparecer do Session Storage |
 
 ---
 
@@ -371,6 +358,11 @@ Foram criados planos de testes para apresentar o funcionamento das situações r
 
 A lista a seguir traz as referências utilizadas nesse trabalho. São elas:
 
-- Problemas para se enturmar podem atrapalhar vida na faculdade. **UOL Educação**, São Paulo, 13 de mar. de 2013. Disponível em: <https://educacao.uol.com.br/noticias/2013/03/11/problemas-para-se-enturmar-podem-atrapalhar-vida-na-faculdade.htm>. Acesso em 24 de set. de 2022.
+- Afinal, por que é importante fazer bons amigos na faculdade?. **UCEFF**, Chapecó. Disponível em: https://blog.uceff.edu.br/afinal-por-que-e-importante-fazer-bons-amigos-na-faculdade/. Acesso em 22 de set. de 2022.
 
-- Afinal, por que é importante fazer bons amigos na faculdade?. **UCEFF**, Chapecó. Disponível em: <https://blog.uceff.edu.br/afinal-por-que-e-importante-fazer-bons-amigos-na-faculdade/>. Acesso em 22 de set. de 2022.
+- Estudo busca voluntários para avaliar impactos da pandemia na saúde mental. **UFMG**, Belo Horizonte, 30 de jun. de 2020. Disponível em: https://ufmg.br/comunicacao/noticias/estudo-busca-voluntarios-para-avaliar-impactos-da-pandemia-na-saude-mental. Acesso em 01 de dez. de 2022.
+
+- Fobia social no período pós-pandemia. **UFSM**, Santa Maria, 04 de ago. de 2022. Disponível em: https://www.ufsm.br/midias/experimental/revistatxt/2022/08/04/fobia-social-no-periodo-pos-pandemia%EF%BF%BC/. Acesso em 01 de dez. de 2022.
+- Por que estamos ansiosos?. UFMG, Belo Horizonte, 14 de set. de 2020. Disponível em: https://www.medicina.ufmg.br/por-que-estamos-ansiosos/. Acesso em 08 de nov. de 2022.
+
+- Problemas para se enturmar podem atrapalhar vida na faculdade. **UOL Educação**, São Paulo, 13 de mar. de 2013. Disponível em: https://educacao.uol.com.br/noticias/2013/03/11/problemas-para-se-enturmar-podem-atrapalhar-vida-na-faculdade.htm. Acesso em 24 de set. de 2022.
